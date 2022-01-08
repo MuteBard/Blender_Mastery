@@ -1,4 +1,5 @@
 # DEV-47,
-#### Tags: []
+### Tags: []
+### Link:
 
-![](../images/DEV-47/DEV-47-A.png)
+![](../images/DEV-47/DEV-47-A1.png)

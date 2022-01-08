@@ -1,4 +1,5 @@
 # DEV-06,
-#### Tags: []
+### Tags: []
+### Link:
 
-![](../images/DEV-06/DEV-06-A.png)
+![](../images/DEV-06/DEV-06-A1.png)

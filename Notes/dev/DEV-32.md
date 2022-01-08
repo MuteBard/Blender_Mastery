@@ -1,4 +1,5 @@
 # DEV-32,
-#### Tags: []
+### Tags: []
+### Link:
 
-![](../images/DEV-32/DEV-32-A.png)
+![](../images/DEV-32/DEV-32-A1.png)

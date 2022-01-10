@@ -1,4 +1,4 @@
-# DEV-04, Creating Tree Stump with Dynamic Topology
+# DEV-04, Workflow: Dynamic Topology
 ### Tags: [Dyntopo, MeshFilter, Remesh, snakehook, draw, claystrips, smooth]
 ### Link: https://academy.cgboost.com/courses/mastering-sculpting-in-blender-2/lectures/26933745
 

@@ -1,6 +1,10 @@
 # Mastering Sculpting
 ### Link: https://academy.cgboost.com/courses/enrolled/299547
 
-## Learning about Dynamic Topology
+## Dynamic Topology WorkFlow
 
 ![](./treestump.png)
+
+## Voxel Remesher WorkFlow
+
+![](./worm.png)

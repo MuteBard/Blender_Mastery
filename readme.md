@@ -8,3 +8,7 @@
 ## Voxel Remesher WorkFlow
 
 ![](./worm.png)
+
+## Multi resolution WorkFlow
+
+![](./claydols.png)

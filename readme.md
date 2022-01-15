@@ -12,3 +12,5 @@
 ## Multi resolution WorkFlow
 
 ![](./claydols.png)
+
+![](./claydol.png)

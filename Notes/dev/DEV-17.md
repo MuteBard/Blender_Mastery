@@ -1,5 +1,5 @@
 # DEV-17, First Sculpting Layer 
-### Tags: [,ff symmetry, ]
+### Tags: [off symmetry]
 ### Link: https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/31231409
 
 ## Progress

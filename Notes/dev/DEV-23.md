@@ -1,5 +1,5 @@
 # DEV-23, Retopology Setup
-### Tags: [setup]
+### Tags: [setup, retypo]
 ### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/31437641>
 
 ## How to prepare Retopology

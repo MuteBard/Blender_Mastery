@@ -4,6 +4,4 @@
 
 ## Lost the files, class provided model:
 
-    ![](../images/DEV-21/DEV-21-A1.png)
-
-## 
+![](../images/DEV-21/DEV-21-A1.png)

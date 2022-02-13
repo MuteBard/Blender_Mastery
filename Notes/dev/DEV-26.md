@@ -1,5 +1,5 @@
 # DEV-26, Retypology, the Head
-### Tags: []
+### Tags: [retypo]
 ### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/31519734>
 
 ## Face

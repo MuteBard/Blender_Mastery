@@ -1,6 +1,6 @@
 # DEV-28, Retypology, the Head Pt3
 ### Tags: [retypo, head, inverting]
-### Link: https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/31823837
+### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/31823837>
 
 
 ## Continued Progress on body

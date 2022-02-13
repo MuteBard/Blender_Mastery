@@ -10,8 +10,6 @@
 
 ![](../images/DEV-31/DEV-31-B1.png)
 
-![](../images/DEV-31/DEV-31-B1.png)
-
 ![](../images/DEV-31/DEV-31-B2.png)
 
 ## Complete the hands

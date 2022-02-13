@@ -27,3 +27,7 @@
 ## Completed the feet in a similar way to hands
 
 ![](../images/DEV-31/DEV-31-D1.png)
+
+## Output
+
+![](../images/DEV-31/DEV-31-D2.png)

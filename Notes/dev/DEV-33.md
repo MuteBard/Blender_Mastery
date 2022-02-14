@@ -23,5 +23,5 @@
 ![](../images/DEV-33/DEV-33-B4.png)
 
 ## Final output
- 
-![](../images/DEV-33/DEV-33-B1.png)
+
+![](../images/DEV-33/DEV-33-C1.png)

@@ -54,3 +54,7 @@
 
     I need to recreate the Shape keys, they got destroyed while symmetrizing the model.
     Need to reopen the eyes with shape keys
+
+    **SOLVED**
+
+![](../images/DEV-36/DEV-36-D1.png)

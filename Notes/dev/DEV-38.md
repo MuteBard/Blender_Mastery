@@ -1,6 +1,6 @@
 # DEV-38, Lips and nose
 ### Tags: [scupting, masking, jitter and spacing]
-### Link: https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32811135
+### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32811135>
 
 ## Lips
 ![](../images/DEV-38/DEV-38-A1.png)

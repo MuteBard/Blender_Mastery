@@ -1,6 +1,6 @@
 # DEV-36, Creating the Gums
 ### Tags: [shrinkwrap, solidify, alt-z, skin, symmetrize, shapekeys]
-### Link: https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32649264
+### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32649264>
 
 ## Create the Gums
 

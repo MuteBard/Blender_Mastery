@@ -1,6 +1,6 @@
-# DEV-32, https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32099705
+# DEV-32, Creating the eyes and mouth
 ### Tags: [retypo]
-### Link: https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32099705
+### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/32099705>
 
 ## Creating the mouth
 

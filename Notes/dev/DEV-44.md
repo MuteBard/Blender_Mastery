@@ -1,5 +1,5 @@
 # DEV-44, Back Pack Part 1
-### Tags: [cloth workflow, spacing, zoom, flattening, facesets]
+### Tags: [spacing, zoom, flattening, facesets]
 ### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/33242265>
 
 ## Troubleshooting: Spacing/Hardness

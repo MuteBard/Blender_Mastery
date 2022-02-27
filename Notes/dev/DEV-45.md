@@ -1,5 +1,5 @@
-# DEV-44, Back Pack Part 2
-### Tags: [Cloth tools, facesets, automasking, edge modifier, solidify modifier]
+# DEV-45, Back Pack Part 2
+### Tags: [Cloth tools, sharp, facesets, automasking, edge modifier, solidify modifier]
 ### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/33243850>
 
 ## Cloth tools

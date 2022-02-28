@@ -1,5 +1,5 @@
 # DEV-48, Back Pack Straps
-### Tags: []
+### Tags: [skin, soldify]
 ### Link: <https://academy.cgboost.com/courses/master-3d-sculpting-in-blender/lectures/33285859>
 
 ## Creating the horseshoe thing
